@@ -11,7 +11,6 @@ public class Major {
     public String name;
     public final int capacity;
     public int numberOfStudents;
-    //in constructor initialize this to zero
     static int majorIDCreate = 1;
 
     public Major(String name, int capacity)

@@ -1,7 +1,5 @@
 package uni;
 
-//import base.Person;
-//import uni.Major;
 import java.util.ArrayList;
 
 public class Student {

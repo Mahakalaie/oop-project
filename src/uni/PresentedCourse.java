@@ -22,8 +22,6 @@ public class PresentedCourse {
 
         presentedCourseList.add(this);
 
-        // to doc gofte bood list besazim inja
-
     }
 
     public static PresentedCourse findByID(int id)

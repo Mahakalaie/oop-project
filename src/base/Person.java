@@ -16,7 +16,6 @@ public class Person {
         id = personIDCreate;
         personIDCreate++;
         personList.add(this);
-        //in doroste?
     }
 
     public static Person findByID(int id)
